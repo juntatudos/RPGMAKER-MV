@@ -59,3 +59,4 @@ Make sure these IDs exist in your database.
 📌 Requirements
 RPG Maker MV
 Standard character and face assets
+<img width="816" height="624" alt="Project2 19_03_2026 11_13_38" src="https://github.com/user-attachments/assets/ae4644d7-7d3b-4b2f-8b36-752625310bc4" />
